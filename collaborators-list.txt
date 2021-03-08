@@ -1,0 +1,9 @@
+Carlos Pinho,4300.00
+Antônio Vieira,3100.00
+Mark Zuckerberg,3100.00
+Amy Schumer,3500.00
+Alicia Faith,2450.00
+William Adams Jr,4390.00
+Anthony Hopkins,2900.00
+Gareth Bale,6100.00
+David Fincher,5000.00
